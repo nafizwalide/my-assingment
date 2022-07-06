@@ -8,6 +8,10 @@ h1 {
     color: grey;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .first-sec {
     background-image: url(images/donation0.jpg);
     background-size: cover;
@@ -33,4 +37,56 @@ h1 {
 
 .pera {
     color: red;
+}
+
+.donate {
+    text-align: center;
+
+}
+
+.poysha {
+    display: flex;
+    margin-left: 10%;
+
+}
+
+.tk {
+    margin-top: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: lightgray;
+    padding: 10px 20px;
+}
+
+#tk {
+    margin-top: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 7px solid red;
+    padding: 10px 30px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+.poriman {
+    margin-top: 10%;
+    text-align: center;
+    color: rgb(188, 184, 184);
+
+}
+
+#line {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.link-2 {
+    margin-top: 3%;
+    text-align: center;
+
+}
+
+.donate-div {
+    margin-top: 10%;
+    text-align: center;
 }
