@@ -3,6 +3,10 @@ body {
     margin: 0;
 }
 
+.intro {
+    color: rgb(255, 0, 106);
+}
+
 h1 {
     font-size: 50px;
     color: grey;
@@ -13,11 +17,12 @@ h2 {
 }
 
 .first-sec {
-    background-image: url(images/donation0.jpg);
+    background-image: url(images/donation13.jpg);
     background-size: cover;
     display: flex;
     height: 50vh;
     background-position: center;
+
 
 }
 
@@ -89,4 +94,68 @@ h2 {
 .donate-div {
     margin-top: 10%;
     text-align: center;
+}
+
+.box {
+    display: flex;
+}
+
+.food-icon {
+    background-color: lavenderblush;
+    box-shadow: 2px 1px 2px 1px;
+    padding: 10px 10px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.shelter-icon {
+    background-color: antiquewhite;
+    box-shadow: 2px 1px 2px 1px;
+    padding: 10px 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.edu-icon {
+    background-color: rgb(246, 246, 150);
+    box-shadow: 2px 1px 2px 1px;
+    padding: 10px 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.flood {
+    margin-top: 10%;
+    background-image: url(images/donation9.jpg);
+    display: flex;
+    height: 50vh;
+    background-position: center;
+}
+
+.half-width-2 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: orange;
+}
+
+.about {
+    margin-top: 8%;
+    text-align: center;
+}
+
+.Updates {
+    margin-top: 5%;
+    text-align: center;
+
+}
+
+.red {
+    color: tomato;
+
+}
+
+.email-subs {
+    display: flex;
+
 }
